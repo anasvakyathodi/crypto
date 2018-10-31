@@ -86,6 +86,7 @@ void decrypt()
 int main()
 {
     int n;
+    cout<<"WELCOME !!!";
     cout << endl << " Encrypt (1) / Decrypt (2) - - ";
     cin >> n;
     if(n==1)
